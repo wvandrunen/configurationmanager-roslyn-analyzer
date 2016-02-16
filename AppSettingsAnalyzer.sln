@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25008.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSettingsAnalyzer", "AppSettingsAnalyzer\AppSettingsAnalyzer\AppSettingsAnalyzer.csproj", "{830CAF89-848E-4147-B15F-5E8FD1A27EDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSettingsAnalyzer.Test", "AppSettingsAnalyzer\AppSettingsAnalyzer.Test\AppSettingsAnalyzer.Test.csproj", "{71320646-4B33-4AF0-AD83-551F23BEB294}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppSettingsAnalyzer.Vsix", "AppSettingsAnalyzer\AppSettingsAnalyzer.Vsix\AppSettingsAnalyzer.Vsix.csproj", "{82AF9D60-2A43-4DBF-819D-9A1E50081D2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{830CAF89-848E-4147-B15F-5E8FD1A27EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830CAF89-848E-4147-B15F-5E8FD1A27EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830CAF89-848E-4147-B15F-5E8FD1A27EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830CAF89-848E-4147-B15F-5E8FD1A27EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71320646-4B33-4AF0-AD83-551F23BEB294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71320646-4B33-4AF0-AD83-551F23BEB294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71320646-4B33-4AF0-AD83-551F23BEB294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71320646-4B33-4AF0-AD83-551F23BEB294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82AF9D60-2A43-4DBF-819D-9A1E50081D2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82AF9D60-2A43-4DBF-819D-9A1E50081D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82AF9D60-2A43-4DBF-819D-9A1E50081D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82AF9D60-2A43-4DBF-819D-9A1E50081D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
